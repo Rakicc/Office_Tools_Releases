@@ -1,9 +1,6 @@
 # Office_Tools_Releases
 This is our Official Office_Tools Application Release section and we will give regular updates and new features on this repo
 1. Step By Step Guide: [Guide](https://tacticspro.github.io/Office_Tools_Latest_Version/) section.
-<img width="444" height="579" alt="Cert1" src="https://github.com/user-attachments/assets/43e35bb7-3bfa-4d78-a5b1-0e7b1c49f9af" />
-<img width="581" height="640" alt="Cert2" src="https://github.com/user-attachments/assets/c8f068fb-f7e7-440e-a170-9ad756bd6cd1" />
-<img width="662" height="637" alt="Cert3" src="https://github.com/user-attachments/assets/ba0976b8-383b-4ffd-9570-91ed27c3415b" />
 
 # 🧾 Office Tools for GST & Tally Automation
 
@@ -58,6 +55,9 @@ From GST 2A/2B/8A reconciliation to Tally XML creation, this suite streamlines d
 ---
 
 ## 📦 Installation
+<img width="444" height="579" alt="Cert1" src="https://github.com/user-attachments/assets/43e35bb7-3bfa-4d78-a5b1-0e7b1c49f9af" />
+<img width="581" height="640" alt="Cert2" src="https://github.com/user-attachments/assets/c8f068fb-f7e7-440e-a170-9ad756bd6cd1" />
+<img width="662" height="637" alt="Cert3" src="https://github.com/user-attachments/assets/ba0976b8-383b-4ffd-9570-91ed27c3415b" />
 
 1. Download the All release from the [Releases](https://github.com/TacticsPro/Office_Tools_Releases/releases) section.
 2. Download msix Office_Tools_X_X_X_X_x64_Debug.cer and install certificate on local->certificate store->Trusted Root Certification Authorities and able to install msix package
